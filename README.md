@@ -1,7 +1,4 @@
 
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
     <title>Über Uns</title>
     <style>
         nav ul {
@@ -10,23 +7,7 @@
             margin: 0;
             display: flex; /* Elemente nebeneinander */
             gap: 20px; /* Abstand zwischen den Links */
-        }
 
-        nav li {
-            display: inline;
-        }
-
-        nav a {
-            text-decoration: none;
-            color: black;
-            font-weight: bold;
-        }
-
-        nav a:hover {
-            color: darkblue;
-        }
-    </style>
-</head>
 <body>
     <header>
         <h1>Über Uns</h1>
