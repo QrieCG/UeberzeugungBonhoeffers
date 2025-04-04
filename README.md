@@ -1,10 +1,3 @@
-
-
-<body>
-    <header>
-        <h1>Über Uns</h1>
-    </header>
-
     <nav>
         <ul>
             <li><a href="index.html">Startseite</a></li>
@@ -16,5 +9,5 @@
     </nav>
 
     <main>
-        <p>Hier steht etwas über uns.</p>
+        <p>Dietrich Bonhoeffer war ein sehr Einfluss reicher mann.</p>
     
