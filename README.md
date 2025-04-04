@@ -1,7 +1,5 @@
 # UeberzeugungBonhoeffers
 
-</head>
-<body>
     <header>
         <h1>Meine Website</h1>
         <nav>
