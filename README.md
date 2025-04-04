@@ -1,6 +1,4 @@
 
-    <title>Über Uns</title>
-    <style>
         nav ul {
             list-style-type: none;
             padding: 0;
