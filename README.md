@@ -1,10 +1,4 @@
 
-        nav ul {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-            display: flex; /* Elemente nebeneinander */
-            gap: 20px; /* Abstand zwischen den Links */
 
 <body>
     <header>
@@ -23,6 +17,4 @@
 
     <main>
         <p>Hier steht etwas über uns.</p>
-    </main>
-</body>
-</html>
+    
