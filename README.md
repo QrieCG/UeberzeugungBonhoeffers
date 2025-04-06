@@ -22,6 +22,6 @@
 
   <main>
     <h2>Startseite</h2>
-    <p>Willkommen auf der Startseite deiner Website!</p>
+    <p>Willkommen !</p>
   </main>
   
