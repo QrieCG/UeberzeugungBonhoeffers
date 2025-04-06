@@ -1,14 +1,8 @@
 
-<html lang="de">
-<head>
-  <meta charset="UTF-8">
-  <title>Meine Website</title>
-  <link rel="stylesheet" href="style.css">
-</head>
 <body>
 
   <header>
-    <h1>Willkommen auf meiner Website</h1>
+    <h1>Dietrich Bonhoeffers Überzeugung</h1>
     <nav>
       <ul class="nav">
         <li><a href="index.html">Start</a></li>
